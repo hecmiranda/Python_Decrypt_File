@@ -13,11 +13,11 @@ Etapas do Desafio:
   -  `sudo apt install python3-pyaes`
 * Acesso ao vim.tiny (outro editor de texto mais generico)
 
- ![image](https://github.com/user-attachments/assets/2ca24ab4-a344-473f-9d64-2f8f6d78d8c2)
+  ![image](https://github.com/user-attachments/assets/2ca24ab4-a344-473f-9d64-2f8f6d78d8c2)
   
 * Criação de arquivo encrypto.py
 
- ![image](https://github.com/user-attachments/assets/fadc5024-c6f2-4507-b7da-8a4ff73be07f)
+  ![image](https://github.com/user-attachments/assets/fadc5024-c6f2-4507-b7da-8a4ff73be07f)
   
 * Criação de arquivo descrypto.py
 * Criação do arquivo teste.txt
