@@ -25,7 +25,7 @@ Etapas do Desafio:
 
 * Criação do arquivo teste.txt
 
-
+  ![image](https://github.com/user-attachments/assets/77605beb-a96e-40fc-b2a4-972f9028dab0)
 
 * Resultado antes
 * Resultado depois
