@@ -6,7 +6,7 @@ Etapas do Desafio:
 
 * Acesso ao CMD
 
- ![image](https://github.com/user-attachments/assets/2232c08a-336b-41ba-bd92-fd80375af26f)
+  ![image](https://github.com/user-attachments/assets/2232c08a-336b-41ba-bd92-fd80375af26f)
   
 * Atualização dos pacotes:
   -  `sudo apt-get update && sudo apt-get upgrade`
