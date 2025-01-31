@@ -20,6 +20,12 @@ Etapas do Desafio:
   ![image](https://github.com/user-attachments/assets/fadc5024-c6f2-4507-b7da-8a4ff73be07f)
   
 * Criação de arquivo descrypto.py
+
+  ![image](https://github.com/user-attachments/assets/30e51ef0-8099-4c45-aca8-3d70ce4488d9)
+
 * Criação do arquivo teste.txt
+
+
+
 * Resultado antes
 * Resultado depois
