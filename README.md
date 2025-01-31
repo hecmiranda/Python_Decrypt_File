@@ -28,4 +28,7 @@ Etapas do Desafio:
   ![image](https://github.com/user-attachments/assets/77605beb-a96e-40fc-b2a4-972f9028dab0)
 
 * Resultado antes
+
+  ![image](https://github.com/user-attachments/assets/89501713-57a5-46ca-9eeb-4edb6d289ef9)
+
 * Resultado depois
