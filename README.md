@@ -1,5 +1,5 @@
 # Python_Decrypt_File
-Etaspas do Desafio
+Etapas do Desafio:
 * Acesso ao Kali
 * Acesso ao CMD
 * Atualização dos pacotes:
